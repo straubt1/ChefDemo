@@ -1,3 +1,3 @@
-file 'C:\Users\Administrator\chef-repo\settings.ini' do
+file 'C:\settings.ini' do
 	content 'greeting=hello world'
 end
